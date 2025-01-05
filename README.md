@@ -2,7 +2,7 @@
 
 A food ordering app has built with Next.js framework. The app allows users to log in with previously registered credentials or with Google provider in order to order foods. After the checkout, stripe payment test mode let to test the payment process. New category and food can be add dynamically into the database with admin role. User profile can be updated. Filtering option is available for foods.
 
-### Demo: [Link](https://food-ordering-app-chi-nine.vercel.app/)
+### Demo: [Link](https://github.com/infit007/food-ordering-app)
 
 ### Demo account:
 
